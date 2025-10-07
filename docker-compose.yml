@@ -1,4 +1,3 @@
-# version 태그는 최신 Docker Compose에서 더 이상 필요하지 않아 제거했습니다.
 services:
   # 1. Elasticsearch 서비스
   elasticsearch:
