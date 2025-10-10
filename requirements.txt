@@ -4,7 +4,7 @@ uvicorn[standard]==0.29.0
 
 # Elasticsearch
 elasticsearch==8.13.0
-eland==8.13.0
+
 
 # Data Handling
 pandas==2.2.2
